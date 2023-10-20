@@ -1,7 +1,5 @@
 # 💼 Inovação e Empreendedorismo
 
-<br>
-
 ## Conteúdo
 
 1. **Criando uma visão sistêmica**
@@ -88,7 +86,7 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 
 ---
 
-## As 7 dimensões críticas
+## ⭐ **As 7 dimensões críticas**
 
 1. Equipe
 2. Organização
@@ -102,7 +100,7 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 
 ---
 
-## Atributos de valor
+## ⭐ **Atributos de valor**
 
 - Agilidade
 - Acessibilidade
@@ -198,7 +196,7 @@ Ou seja, se a inovação criar mais problemas do que soluções, dificilmente se
 
 ---
 
-## Jornada Empreendedora
+## ⭐ **Jornada Empreendedora**
 
 Conheça a jornada empreendedora inovadora em sua área de atuação
 
@@ -226,7 +224,7 @@ A jornada empreendedora compreende:
 
 ---
 
-## Recursos para inovar
+## ⭐ **Recursos para inovar**
 
 - **Capital financeiro**
 - **Capital humano**: bens intelectuais dos colaboradores, a principal fonte de inovação
