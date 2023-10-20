@@ -32,9 +32,9 @@
 
 4. **Inovação na prática**: oficina de aprensentação, canvas de inovação e planejamento da ideia ao mercado
 
----
-
 <br>
+
+---
 
 ## Inovações cross-industry
 
@@ -46,25 +46,25 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 - Musk investe em comunicação
 - O que impede o Palmeiras de investir em agências espaciais?
 
----
-
 <br>
+
+---
 
 ## ⭐ **Objetivos da inovação**
 
 **Criar soluções que atendam às necessidades não atendidas de clientes e usuários**, possibilitando que estes **realizem tarefas importantes** para eles de forma mais eficaz e eficiente.
 
----
-
 <br>
+
+---
 
 ## ⭐ **JTBD (Jobs To Be Done)**
 
 **O usuário compra nosso produto ou contrata nosso serviço para realizar uma tarefa importante para ele**
 
----
-
 <br>
+
+---
 
 ## ⭐ **Canvas da inovação**
 
@@ -84,9 +84,9 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 | **Concorrência e sua reação**                    | Outros produtos e serviços que atendem as mesmas dores. A concorrência possui motivação/tecnologia para competir? |
 | **Blindagem**                                    | Como proteger a organização e a inovação da concorrência (parcerias estratégicas e PI) |
 
----
-
 <br>
+
+---
 
 ## As 7 dimensões críticas
 
@@ -98,9 +98,9 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 6. Tecnologia
 7. Mercado
 
----
-
 <br>
+
+---
 
 ## Atributos de valor
 
@@ -119,9 +119,9 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 - Design
 - Segurança etc.
 
----
-
 <br>
+
+---
 
 ## Equação fundamental
 
@@ -129,20 +129,20 @@ O termo "transferência de tecnologia intersetorial" significa utilizar a propri
 
 Ou seja, se a inovação criar mais problemas do que soluções, dificilmente será adotada.
 
----
-
 <br>
+
+---
 
 ## Gestão da Inovação
 
-**Modelo estratégico de gestão** de
+**Modelo estratégico de gestão** de:
 
 - recursos organizacionais e dos processos relacionados ao desenvolvimento e renovação de produtos, processos e serviços que a organização oferece ao mercado
 - forma como a organização inova a fim de obter vantagens competitivas
 
----
-
 <br>
+
+---
 
 ## Pilares Estratégicos
 
@@ -151,9 +151,9 @@ Ou seja, se a inovação criar mais problemas do que soluções, dificilmente se
 - **Inovação competitiva**: mapa de tendências, concorrência, tecnologias, cenários e avaliação de impactos
 - **Inovação cooperativa**: interação com os ecossistemas interno e externo
 
----
-
 <br>
+
+---
 
 ## ⭐ **Tipos de Inovação**
 
@@ -166,9 +166,9 @@ Ou seja, se a inovação criar mais problemas do que soluções, dificilmente se
 - Design/marketing
 - Inovar na proposta de valor
 
----
-
 <br>
+
+---
 
 ## ⭐ **Graus de Inovação**
 
@@ -183,9 +183,9 @@ Ou seja, se a inovação criar mais problemas do que soluções, dificilmente se
 - Se sua organização não fizer inovações disruptivas, alguém o fará
 - Não subestime a concorrência
 
----
-
 <br>
+
+---
 
 ## Inovação em serviços
 
@@ -194,9 +194,9 @@ Ou seja, se a inovação criar mais problemas do que soluções, dificilmente se
 - Mapa de inconveniências
 - Jornada do cliente
 
----
-
 <br>
+
+---
 
 ## Jornada Empreendedora
 
@@ -222,9 +222,9 @@ A jornada empreendedora compreende:
 - Nível de inovação
 - Nível de concorrência
 
----
-
 <br>
+
+---
 
 ## Recursos para inovar
 
@@ -235,9 +235,9 @@ A jornada empreendedora compreende:
 - **Capital social**: toda a inteligência e recursos que existem nas redes sociais (crowdfunding, funding, investing etc.)
 - **Capital ambiental**: recursos que existem no ambiente no qual a organização está inserida (parques tecnológicos, incubadoras, agências de fomento, programas etc.)
 
----
-
 <br>
+
+---
 
 ## Pitch para investidores
 
@@ -254,9 +254,9 @@ A jornada empreendedora compreende:
 11. Investimento e uso de fundos
 12. Slides extras
 
----
-
 <br>
+
+---
 
 ## Estratégias de inovação
 
@@ -280,9 +280,9 @@ A **estratégia de inovação** consiste em:
 
 Um processo de compartilhar conhecimento, tecnologias, patentes e ideias com outras organizações - como parte essencial de sua estratégia para o desenvolvimento de novos produtos e serviços.
 
----
-
 <br>
+
+---
 
 ## Lean Startup (pensamento enxuto)
 
@@ -296,9 +296,9 @@ Um processo de compartilhar conhecimento, tecnologias, patentes e ideias com out
     - Lançamento: teste de usuários
     - Com o feedback, lançar novas versões aprimoradas
 
----
-
 <br>
+
+---
 
 ## Design Thinking
 
@@ -311,9 +311,9 @@ Um processo de compartilhar conhecimento, tecnologias, patentes e ideias com out
 
 Duplo diamante: primeiro diamante (entendimento e definições) vs. segundo diamante (ideação, criação e testes)
 
----
-
 <br>
+
+---
 
 ## Google Design Sprint
 
